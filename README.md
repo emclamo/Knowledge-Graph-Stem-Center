@@ -6,6 +6,17 @@ This project visualizes ten best practices developed over five years by a STEM r
 
 ---
 
+## ✨ Highlights
+
+- 🎯 Visualizes 10 evidence-based STEM center best practices  
+- 🧭 Shows directional relationships and feedback loops  
+- 🎨 Color-coded thematic clusters for clarity  
+- 🧩 Includes both labeled and clean PNG outputs  
+- 💾 Stores a fixed layout for reproducible graph positioning  
+- 🔁 Easy to extend or adapt for other research centers  
+
+---
+
 ## 🎯 Objectives
 
 - **Recruit Broadly**
@@ -36,4 +47,3 @@ Install dependencies:
 
 ```bash
 pip install networkx matplotlib
-
