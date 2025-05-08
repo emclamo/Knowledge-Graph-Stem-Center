@@ -1,0 +1,10 @@
+Source,Target,Relationship,Weight
+Recruit Broadly,Engage Faculty & Fellows,supports,3
+Recruit Broadly,Engage Students & Youth,supports,3
+Champion Team Advocacy,Retain & Reward Participants,enables,5
+Listen, Unlearn, Relearn,Broaden Own Participation,drives,4
+Broaden Own Participation,Lead in Local Community,reinforces,4
+Use Principles & Frameworks,Self-Assess & Calibrate,informs,2
+Engage Students & Youth,Lead in Local Community,contributes to,3
+Engage Faculty & Fellows,Retain & Reward Participants,enhances,4
+Self-Assess & Calibrate,Recruit Broadly,refines,2
