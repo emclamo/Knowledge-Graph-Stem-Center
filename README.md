@@ -56,4 +56,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 Developed by **[@emclamo](https://github.com/emclamo)**  
-Affiliation: STEM Research Center Best Practices Initiative
+Affiliation: STEPS Center (Science and Technologies for Phosphorus Sustainability)
