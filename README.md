@@ -11,9 +11,9 @@ This project visualizes ten best practices developed over five years by a STEM r
 - 🎯 Visualizes 10 evidence-based STEM center best practices  
 - 🧭 Shows directional relationships and feedback loops  
 - 🎨 Color-coded thematic clusters for clarity  
-- 🧩 Includes both labeled and clean PNG outputs  
+- 🧩 Includes both labeled and clean PNG exports  
 - 💾 Stores a fixed layout for reproducible graph positioning  
-- 🔁 Easy to extend or adapt for other research centers  
+- 🔁 Easy to adapt for other institutional strategies or centers  
 
 ---
 
@@ -32,18 +32,28 @@ Each practice is represented as a node, color-coded by cluster. Arrows reflect d
 
 | File                                | Description                                       |
 |-------------------------------------|---------------------------------------------------|
-| `graph_generator.py`                | Main script to generate the knowledge graph       |
-| `layout_positions.pkl`              | Stored layout for reproducibility                 |
+| `graph_generator.py`                | Python script used to generate the knowledge graph |
+| `layout_positions.pkl`              | Stored layout to ensure consistent output         |
 | `knowledge_graph_with_text.png`     | Graph with labeled nodes and directional edges    |
-| `knowledge_graph_no_labels.png`     | Clean version for overlays or presentations       |
+| `knowledge_graph_no_labels.png`     | Clean version for overlays or visual design       |
 | `assets/repo-banner.png`            | GitHub social preview/banner image                |
-| `requirements.txt`                  | Python packages required for script               |
+| `requirements.txt`                  | Python packages required (for reproducibility)    |
 
 ---
 
-## 🚀 How to Run
+## ⚙️ Technical Note (Optional)
 
-Install dependencies:
+The graph was generated using `networkx` and `matplotlib` in Python, with a locked layout for consistent node placement. Although not required to view or interpret the graph, the included script (`graph_generator.py`) allows full regeneration or customization of the visualization.
 
-```bash
-pip install networkx matplotlib
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+Developed by **[@emclamo](https://github.com/emclamo)**  
+Affiliation: STEM Research Center Best Practices Initiative
