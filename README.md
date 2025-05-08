@@ -2,7 +2,8 @@
 
 This project visualizes ten best practices developed over five years by a STEM research center. The graph highlights three strategic objectives—**Recruit**, **Retain**, and **Engage**—and shows how practices relate through directional, weighted connections and thematic clusters.
 
-![Knowledge Graph Banner](assets/repo-banner.png)
+![Knowledge Graph Banner](Banner%20Image.png)
+
 
 ---
 
